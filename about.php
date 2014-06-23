@@ -24,7 +24,7 @@
 	<!-- end #nav -->
 	
 	<div id="content">
-	<p> About page here  </p>
+	<p> About page here!  </p>
 
 	</div> <!-- end #content -->
 	
